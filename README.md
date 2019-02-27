@@ -11,6 +11,7 @@ faker mode: Send mixed data just by specifying the type of data in the input fie
 example: python formspam.py -l link -n 100 -f
 
 How to fill entry field:
+
 Step 1: Open the Google form you want to spam.
 Step 2: Fill up the form entirely with any value, don't submit yet.
 Step 3: Go to inspect.(Right Click>Inspect)
